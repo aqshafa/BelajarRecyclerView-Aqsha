@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BelajarRecyclerView</string>
+    <string name="IniJudul">This gun can shot</string>
+    <string name="IniSubJudul">Its AK-47</string>
+    <string name="changeLanguage">Change Language</string>
+</resources>

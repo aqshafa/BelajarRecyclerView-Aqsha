@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BelajarRecyclerView</string>
+    <string name="IniJudul">Tembakan Ini Bisa Menembak</string>
+    <string name="IniSubJudul">Namanya adalah AK-47</string>
+    <string name="changeLanguage">Change Language</string>
+    <string name="search">search</string>
+</resources>
